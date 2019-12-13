@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: top;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.post-card {
+  border: 1px solid lightblue;
+  margin: 1rem;
+  margin-left: 10rem;
+  margin-right: 10rem;
+  padding: 4rem;
+  margin-top: 5rem;
+  border-radius: 1rem;
+}
+
+.contents {
+  font-size: 0.85rem;
+}
